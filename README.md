@@ -26,6 +26,7 @@ There is not much actual filtering being done here; the filter is based on the N
 14. sechamas and chaos keys - bojack and ()()()()()() law and order 
 15. A pool of sounds for all quest items. - too many to name 
 16. uniques - pool
+    
 ---0.5.0 stuff---
 Verisium- vocal stims
 alloys- even more vocal stims

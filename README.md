@@ -23,10 +23,17 @@ There is not much actual filtering being done here; the filter is based on the N
 11. relics- various vocal stims
 12. fragments - big lez + more to come ()()()()
 13. vault keys - duke nuke em
-14. sechamas and chaos keys - bojack and ()()()()()()
+14. sechamas and chaos keys - bojack and ()()()()()() law and order 
 15. A pool of sounds for all quest items. - too many to name 
 16. uniques - pool
+---0.5.0 stuff---
+Verisium- vocal stims
+alloys- even more vocal stims
+effigy- ghost stories dub
+wombgifts - various
 
+
+Honestly, some things are so varied in their sources that it's hard to make a hard category for them.
 
 ---instalation---
 git hub will download the filter and the sounds a one compressed zip file, this zip fill will contain another with the sounds and .fillter file. 

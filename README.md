@@ -10,7 +10,7 @@ This filter is full of memes and jokes for all of the major drops in POE2. Each 
 There is not much actual filtering being done here; the filter is based on the NeverSink semi-strict filter setting, hiding bad drops. 
 ---
 ---catagories of changes---
-1. All basic curreneys have at least 2 bew custom sounds. The rule of thumb is that the rarer it is, the fewer sounds it may have, but the longer those sounds are.
+1. All basic curreneys have at least 2 bew custom sounds.(but most have way more) The rule of thumb is that the rarer it is, the fewer sounds it may have, but the longer those sounds are.
 2. idols - umas and class of 09 quotes
 3. omens- regularshow 
 4. emotions - Dracula flows
@@ -19,15 +19,16 @@ There is not much actual filtering being done here; the filter is based on the N
 7. waystones - only one per tier 
 8. catalyts - Creeper( you better have said aw man) spongebob
 9. essences- big lez
-10. gems and lineage - I call it an uncut gem, rhymes with grug
+10. gems and lineage - I call it an uncut skill gem, rhymes with grug
 11. relics- various vocal stims
-12. fragments - big lez + more to come ()()()()
+12. fragments - big lez + more to come 
 13. vault keys - duke nuke em
-14. sechamas and chaos keys - bojack and ()()()()()() law and order 
+14. sechamas and chaos keys - Bojack and Law and Order 
 15. A pool of sounds for all quest items. - too many to name 
 16. uniques - pool
     
 ---0.5.0 stuff---
+
 Verisium- vocal stims
 alloys- even more vocal stims
 effigy- ghost stories dub

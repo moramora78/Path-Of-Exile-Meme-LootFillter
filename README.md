@@ -1,7 +1,7 @@
 # Path-Of-Exile-Meme-LootFillter
 A loot filter full of memes to keep the dopamine rolling during the POE2 experience.
 
-Currently there are 235 ()()(()()()() unique sounds. I started working on this before the 0.50 announcement.... kill me
+Currently, there are 250+ unique sounds. I started working on this before the 0.50 announcement.... kill me
 
 -------Update 0.5.0 ---------
 
